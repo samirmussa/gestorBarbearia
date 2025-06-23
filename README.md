@@ -32,7 +32,6 @@ Este projeto visa empoderar pequenos barbeiros locais com uma ferramenta digital
 3. Instale as dependências com:
    ```bash
    pip install tkinter
-   ```bash
    pip install matplotlib
 
 ### Como rodar
