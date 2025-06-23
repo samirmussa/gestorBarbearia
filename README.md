@@ -34,4 +34,5 @@ Este projeto visa empoderar pequenos barbeiros locais com uma ferramenta digital
    pip install matplotlib
 
 ### Como rodar
+```bash
 python3 main.py
