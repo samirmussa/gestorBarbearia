@@ -31,6 +31,8 @@ Este projeto visa empoderar pequenos barbeiros locais com uma ferramenta digital
 2. Certifique-se de ter o Python 3 instalado.
 3. Instale as dependências com:
    ```bash
+   pip install tkinter
+   ```bash
    pip install matplotlib
 
 ### Como rodar
